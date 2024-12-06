@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+My Name is Talha Ather and I am a Computer Science student at the University of Colorado Boulder recognized as a resourceful and persistent problem-solver in both independent and collaborative work.
 <!--
 **tjather/tjather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
