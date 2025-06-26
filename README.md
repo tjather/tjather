@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-My Name is Talha Ather and I am a Computer Science student at the University of Colorado Boulder recognized as a resourceful and persistent problem-solver in both independent and collaborative work.
+My Name is Talha Ather and I am a recent Computer Science graduate from the University of Colorado Boulder. I'm passionate about building innovative, efficient, and scalable solutions that solve real-world problems. My background includes full-stack web development and hands-on experience in machine learning, cybersecurity, and network systems.
+
+Whether I’m taking classes, refining a backend system, or launching a product, I’m driven by curiosity, collaboration, and the desire to make a meaningful impact through technology. I’m actively seeking opportunities where I can continue learning, grow alongside experienced teams, and contribute to high-impact software projects.
 <!--
 **tjather/tjather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
