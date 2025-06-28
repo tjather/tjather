@@ -1,19 +1,13 @@
-## Hi there 👋
-
+# 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-ather) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talha.ather03@gmail.com) 
 My Name is Talha Ather and I am a recent Computer Science graduate from the University of Colorado Boulder. I'm passionate about building innovative, efficient, and scalable solutions that solve real-world problems. My background includes full-stack web development and hands-on experience in machine learning, cybersecurity, and network systems.
 
 Whether I’m taking classes, refining a backend system, or launching a product, I’m driven by curiosity, collaboration, and the desire to make a meaningful impact through technology. I’m actively seeking opportunities where I can continue learning, grow alongside experienced teams, and contribute to high-impact software projects.
-<!--
-**tjather/tjather** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on building WattGuard, a smart plug that cuts phantom energy waste at the source. We're combining hardware, software, and sustainability to tackle a silent but costly problem in homes and businesses.<br><br>👯 I’m looking to collaborate on meaningful, mission-driven tech, especially projects that uplift underserved communities, promote sustainability, or serve the Muslim ummah.<br><br>🤝 I’m looking for help with scaling WattGuard’s infrastructure, especially around embedded systems, energy benchmarking, and e-commerce logistics.<br><br>🌱 I’m currently learning more about embedded Linux, power optimization techniques, and how to build resilient infrastructure for production-ready IoT.<br><br>💬 Ask me about building MVPs fast, product-market validation, TypeScript, React, Next.js, Laravel, or how to start something from nothing and pitch it like you mean it.<br><br>⚡ Fun fact: I currently led a team that won both a university hackathon and a social impact venture competition with the same product. I’ve also studied the Islamic sciences through Qalam Seminary and am always trying to merge code and khidmah.<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=tjather&theme=dark&hide_border=false)<br/>
+
