@@ -16,7 +16,7 @@ Whether I’m in the classroom, working on a new project, or shipping code, I’
 - 🔭 I’m currently working on improving **GoodWatt’s web platform**, supporting sustainability through thoughtful tech and design  
 - 👯 I’m looking to collaborate on mission-driven tech that promotes sustainability, supports underserved communities, or benefits the Muslim ummah  
 - 🤝 I’m always open to learning from others and working on meaningful projects — especially in product validation, clean architecture, or scalable backend systems  
-- 🌱 I’m currently diving deeper into embedded Linux, energy benchmarking, and how to build resilient infrastructure for IoT systems  
+- 🌱 I’m currently diving deeper into python, marketing, and how to build resilient infrastructure for IoT systems  
 - 💬 Ask me about building MVPs quickly, validating ideas, TypeScript, React, Next.js, or how to bring an idea to life and pitch it with confidence  
 - ⚡ Fun fact: I helped turn a weekend hackathon project into a real startup with paying customers and a hardware-software stack built from scratch  
 
