@@ -1,13 +1,13 @@
 # 💫 About Me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/talha-ather) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:talha.ather03@gmail.com) 
-My name is Talha Ather, and I recently graduated with a Bachelor of Science in Computer Science, magna cum laude, with a 3.97 GPA.
+My name is Talha Ather, and I recently graduated with a Bachelor of Science in Computer Science, summa cum laude, with a 3.97 GPA.
 
-I’m passionate about building things that solve real problems. My experience spans full-stack web development, machine learning, cybersecurity, and network systems. More than anything, I care about building technology that uplifts people and creates lasting impact.
+I’m passionate about building tools that solve real problems and create meaningful impact. My experience spans full-stack web development, machine learning, cybersecurity, and network systems. More than anything, I care about building technology that uplifts people and serves purposeful causes.
 
-One of my proudest moments was co-founding GoodWatt, a sustainability-focused startup that won both CU Boulder’s 2024 Sustainability Hackathon and the 2025 Social Impact New Venture Challenge. I led the technical development of our secure preorder platform using Next.js, TypeScript, and Stripe.
+One of my proudest moments was co-founding GoodWatt, a sustainability startup addressing phantom energy waste that won both CU Boulder’s 2024 Sustainability Hackathon and the 2025 Social Impact New Venture Challenge. I led the technical development of our scalable preorder platform using React, TypeScript, and Stripe for seamless payments and user experience.
 
-I also supported the marketing automation platform at Total Expert, contributing to full-stack development using Vue.js, SQL, PHP, and ElasticSearch. There, I worked on backend performance, frontend modularity, and system debugging at scale.
+I also contributed to the marketing automation platform at Total Expert, where I worked on refactoring backend systems using PHP, developing modular UI components with Vue.js, and improving data processing with SQL and ElasticSearch. It was a fast-paced environment that sharpened my ability to debug complex systems, write clean, testable code, and think holistically about product scalability.
 
-Whether I’m in the classroom, working on a new project, or shipping production code, I’m driven by curiosity, collaboration, and purpose.
+Whether I’m in the classroom, working on a new project, or shipping code, I’m driven by curiosity, collaboration, and purpose.
 
 ---
 
